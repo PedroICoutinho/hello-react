@@ -1,0 +1,10 @@
+.navBar {
+    display: flex;
+    justify-content: space-between;
+
+}
+.icons{
+    width: 35px;
+    height: 35px;
+    margin: 25px;
+}

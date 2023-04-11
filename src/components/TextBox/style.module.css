@@ -1,0 +1,22 @@
+.headerTitle{
+    font-size: 8em;
+    font-weight: 700;
+    color: white;
+    margin-left: 50px;
+}
+
+.headerSubtitle{
+    color: white;
+    width: 250px;
+    margin-left: 50px;
+}
+
+.btnTitle{
+    background-color: white;
+    color: rgb(59, 66, 82);
+    padding: 22px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 20pt;
+}
